@@ -33,7 +33,7 @@ This involved data exploration to give insights and answers to some questions ab
 - The total revenue per product e.t.c.
 
 ### Data Analysis
-This is where we include some basic lines of codes or queries or even some of the DAX expression ussed during the analysis;
+This is where we include some basic lines of codes or queries or even some of the DAX expression used during the analysis;
 
 ~~~SQL
 select top 5 Customer_Id,
